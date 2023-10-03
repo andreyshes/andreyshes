@@ -2,8 +2,8 @@
 <h1 align="center"> Hello, I'm Andrey Shestopal 👋</h1>
 
 
- ![Badge](![full-stack-developer](https://github.com/andreyshes/andreyshes/assets/108090571/01f4fe28-176b-4cad-8535-4d8cbac4504e)
-)
+ ![Badge](file:///Users/andreyshestopal/Downloads/full-stack-developer.jpg)
+
 
 
 
