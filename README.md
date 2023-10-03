@@ -2,6 +2,9 @@
 <h1 align="center"> Hello, I'm Andrey Shestopal 👋</h1>
 
 
+![Badge](![full-stack-developer](https://github.com/andreyshes/andreyshes/assets/108090571/0ef2e86c-7be6-42f3-a7b1-979601a21a8a)
+)
+[Link to Badge](https://www.credly.com/badges/edcc5477-b3b1-4484-acc9-3e6fc552c708/public_url)
 
 
 
