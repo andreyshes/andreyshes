@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, I'm Andrey Shestopal 👋</h1>
 
 
- [Badge] https://i.ibb.co/xsWSJzJ/full-stack-developer.png 
+ <a href="https://ibb.co/6ZzRgDg"><img src="https://i.ibb.co/6ZzRgDg/full-stack-developer.png" alt="full-stack-developer" border="0"></a>
 
 
 
